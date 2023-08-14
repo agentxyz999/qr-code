@@ -15,13 +15,13 @@ const App = () => {
 
       <div>
         <h2>
-          Challenge by{" "}
+          Challenge by:{" "}
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">
             Frontend Mentor💖
           </a>
         </h2>
         <h2>
-          Coded by{" "}
+          Coded by:{" "}
           <a href="https://rconde-portfolio.netlify.app/" target="_blank" rel="noreferrer">
             Rolie Conde 😁
           </a>
