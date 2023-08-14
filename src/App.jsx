@@ -21,7 +21,11 @@ const App = () => {
           </a>
         </h2>
         <h2>
-          Coded by <a href="https://rconde-portfolio.netlify.app/">Rolie Conde 😁</a>.
+          Coded by{" "}
+          <a href="https://rconde-portfolio.netlify.app/" target="_blank" rel="noreferrer">
+            Rolie Conde 😁
+          </a>
+          .
         </h2>
       </div>
     </div>
